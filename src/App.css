@@ -1,0 +1,23 @@
+html {
+  background: #2f3136;
+  color: white;
+}
+
+.App {
+  text-align: center;
+  margin: 10%;
+}
+
+.Query-Data {
+  margin: 50px;
+  border: 1px solid #616161;
+  height: 25px;
+}
+
+.File-Uploader {
+  border-radius: 5px;
+  border: 1px dashed white;
+  height: 100px;
+  justify-content: center;
+  align-content: center;
+}

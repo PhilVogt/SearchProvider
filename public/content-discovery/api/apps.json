@@ -1,0 +1,9 @@
+{
+    "appId": "my-OpenFin-app",
+    "name": "This app does all you need!",
+    "manifest": "https://cdn.openfin.co/demos/notifications/generator/app.json",
+    "manifestType": "view",
+    "version": "1.0",
+    "title": "A Title",
+    "description": "Some long winded but no doubt useful description."
+}
